@@ -1,5 +1,7 @@
 # Configuration
 
+# Note: not tested in Windows
+
 # If execution policy error: bypass it for that session using:
 # Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass 
 # or by running 
